@@ -1,5 +1,3 @@
-package com.averydennison.dcl;
-
 import java.util.HashSet;
 import java.util.Set;
 
